@@ -14,6 +14,8 @@ public class BoardDto {
 	private String regdate;
 	private int pos;
 	private int depth;
+	private String test;
+	
 	public int getSeq() {
 		return seq;
 	}
